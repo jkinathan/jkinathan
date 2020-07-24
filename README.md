@@ -1,10 +1,8 @@
 ### Hi 👋 it's Jordan here
-![jkinathan's github stats](https://github-readme-stats.vercel.app/api?username=jkinathan&show_icons=true&count_private=true&theme=radical)
+![jkinathan's github stats](https://github-readme-stats.vercel.app/api?username=jkinathan&show_icons=true&count_private=true&theme=synthwave)
 ## Tools, Technologies, Stack
 
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code) ![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python) ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&)  ![GCP](https://img.shields.io/badge/Google_Cloud-lightgrey?style=for-the-badge&logo=google-cloud) ![Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=heroku) ![Windows](https://img.shields.io/badge/Windows-lightblue?style=for-the-badge&logo=windows) ![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge&logo=microsoft-sql-server) ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkinathan)](https://github.com/jkinathan/github-readme-stats)
-
 <!--
 **jkinathan/jkinathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
