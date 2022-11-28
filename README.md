@@ -1,7 +1,6 @@
 ### Hi 👋 it's Jordan here
 
-[comment]: # ![jkinathan's github stats](https://github-readme-stats.vercel.app/api?username=jkinathan&show_icons=true&count_private=true&theme=synthwave)
-![jkinathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkinathan&show_icons=true&theme=transparent)
+[![jkinathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkinathan)](https://github.com/jkinathan/github-readme-stats)
 <img src="http://quoteapic.com/wp-content/uploads/2017/03/work-survaival.gif" height=150px align=right>
 
 ## Tools, Technologies, Stack
