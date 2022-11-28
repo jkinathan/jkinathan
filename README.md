@@ -1,6 +1,6 @@
 ### Hi 👋 it's Jordan here
 
-[![jkinathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkinathan)](https://github.com/jkinathan/github-readme-stats)
+[![jkinathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkinathan)](https://github.com/jkinathan/github-readme-stats&show_icons=true&theme=radical)
 <img src="http://quoteapic.com/wp-content/uploads/2017/03/work-survaival.gif" height=150px align=right>
 
 ## Tools, Technologies, Stack
